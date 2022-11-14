@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning about Front-End Web Development in a Skills Bootcamp with edX!
+- 🌱 I’m currently learning about Front-End Web Development in a Skills Bootcamp!
 - 👯 I’m looking to collaborate on anything to do with Web Development!
 - 💬 Ask me about any of my repositries!
 - 📫 How to reach me: <shisinbin@protonmail.com>
