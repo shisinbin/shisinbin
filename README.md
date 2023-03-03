@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning about Front-End Web Development in a Skills Bootcamp!
+- 🌱 I’ve recently completed learning about Front-End Web Development in a Skills Bootcamp!
+- 🔭 I'm currently working on making more apps using React!
 - 👯 I’m looking to collaborate on anything to do with Web Development!
 - 💬 Ask me about any of my repositries!
 - 📫 How to reach me: <shisinbin@gmail.com>
