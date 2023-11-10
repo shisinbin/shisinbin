@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 - 🌱 I’ve recently completed learning about Front-End Web Development in a bootcamp!
 - 🔭 I'm currently working on making more web apps using React!
 - 👯 I’m looking to collaborate on anything to do with Web Development!
 - 💬 Ask me about any of my repositries!
 - 📫 How to reach me: <shisinbin@gmail.com>
+-->
+
+🌱 I'm currently working to deepen my understanding of web development, taking things at my own pace.
+
+📫 Reach out to me via email: <shisinbin@gmail.com>
