@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <shisinbin@gmail.com>
 -->
 
+<!--
 🌱 I'm currently working to deepen my understanding of web development, taking things at my own pace.
+-->
 
 📫 Reach out to me via email: <shisinbin@gmail.com>
